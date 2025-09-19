@@ -33,7 +33,7 @@ This dashboard helps stakeholders quickly evaluate financial health, product per
 
 
 
-### Global Sales Map - PAGE2
+### Global Sales Map - PAGE 2
 
 This Power BI page visualizes AdventureWorks’ worldwide sales footprint.
 
